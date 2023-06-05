@@ -1,0 +1,1 @@
+module.exports=MONGODB_URI=uri="mongodb+srv://Champion4217:Singh123@cluster0.nmm32cz.mongodb.net/?retryWrites=true&w=majority";
